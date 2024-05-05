@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">FlavorFriend</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorite">Favorites</string>
+    <string name="home">Home</string>
+    <string name="category">Categories</string>
+    <string name="home_fragment_title">Home</string>
+    <string name="search_icon">search icon</string>
+    <string name="what_would_you_like_to_eat">What would you like to eat</string>
+    <string name="random_meal_image">Random Meal Image</string>
+    <string name="over_popular_items">Our Popular Items</string>
+    <string name="categories">Categories</string>
+    <string name="add_to_favorite">Add To Favorite</string>
+    <string name="unknown_category">Unknown Category</string>
+    <string name="unknown_area">Unknown Area</string>
+    <string name="category_title">Category : %s</string>
+    <string name="area_title">Area : %s</string>
+    <string name="instructions_title">Instructions: </string>
+    <string name="play_on_youtube">Play On YouTube</string>
+    <string name="popular_meal_item">Popular Meal Item</string>
 </resources>
